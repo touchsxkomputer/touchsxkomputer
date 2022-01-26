@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @touchsxkomputer
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- my Website: 
+https://touchsxkomputer.blogspot.com/
+https://topdirectorycenter.blogspot.com/
+https://touchsxgames.blogspot.com/
+<!---
+touchsxkomputer/touchsxkomputer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
